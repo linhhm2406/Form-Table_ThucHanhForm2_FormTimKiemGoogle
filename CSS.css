@@ -1,0 +1,140 @@
+body{
+    font-family: Times new roman;
+}
+.main{
+    background-color: #97eeff;
+    height: 350px;
+    width: 700px;
+    margin: auto;
+
+}
+.body{
+    background-color: ivory;
+    margin:auto;
+    height:90%;
+    width : 95%;
+    position : relative;
+    top : 12px;
+
+}
+.title{
+    background-color: red;
+    margin : auto;
+    height:40px;
+    width : 95%;
+    position : relative;
+    top : 15px;
+
+}
+.title p{
+    color: white;
+    text-align : center;
+    font-size : 26px;
+    padding-top: 5px;
+}
+.name{
+    position : relative;
+    margin:auto;
+}
+
+.name p{
+    color:blue;
+    margin-left: 80px;
+    font-size: 20px;
+    width: 100px;
+    text-align: right;
+    height: 30px;
+    position : relative;
+    top:8px;
+    float:left;
+}
+.name input{
+    float:left;
+    position: relative;
+    top:25px;
+    margin-left:10px;
+    border-radius: 5px;
+    height: 25px;
+}
+.email{
+    position: relative;
+    margin:0px;
+}
+
+.email p{
+    color:blue;
+    margin-left: 80px;
+    font-size: 20px;
+    width: 100px;
+    text-align: right;
+    height: 30px;
+    position : absolute;
+    top:50px;
+    float:left;
+}
+.email input {
+    float:left;
+    position: relative;
+    top:35px;
+    margin-left:10px;
+    border-radius: 5px;
+    height: 25px;
+}
+.sothich{
+    position: relative;
+    margin:0px;
+}
+.sothich p{
+    color:blue;
+    margin-left: 80px;
+    font-size: 20px;
+    width: 100px;
+    text-align: right;
+    height: 30px;
+    position : absolute;
+    top:90px;
+    float:left;
+}
+.sothichlist{
+    float:left;
+    position: relative;
+    top:50px;
+    margin-left:10px;
+    border-radius: 5px;
+    height: 25px;
+    font-size:20px;
+    line-height:35px;
+}
+.cot{
+    float:left;
+}
+.cot2{
+    float:left;
+    position: relative;
+    left: 20px;
+}
+.cot3{
+    float:left;
+    position: relative;
+    left: 40px;
+}
+.guithongtin {
+    position: absolute;
+}
+.guithongtin input{
+    margin-left: 180px;
+    font-size: 20px;
+    height: 30px;
+    position : relative;
+    top:230px;
+}
+.nhaplai {
+    position: absolute;
+}
+.nhaplai input{
+    margin-left: 320px;
+    font-size: 20px;
+    height: 30px;
+    position : relative;
+    top:230px;
+}
